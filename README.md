@@ -1,8 +1,5 @@
 # hlf2-template
-A Hyperledger Fabric network template 
-
-More info about how to create it at:
-* [Medium](https://medium.com/@ialberquilla/creating-a-hyperledger-fabric-2-network-template-in-four-simples-steps-cf804d5075e2) 
+A Hyperledger Fabric network with a java chaincode
 
 # Installation instructions
 
@@ -14,9 +11,10 @@ More info about how to create it at:
 
 
 # Start the network
-1. Generate the crypto material
 `./network.sh up createChannel`
 
+# Deploy the chaincode
+`./network.sh deployCC -l java`
 
 # Stop the network
 `./network.sh down`

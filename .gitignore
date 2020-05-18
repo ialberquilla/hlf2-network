@@ -1,2 +1,8 @@
 /bin
 /config
+/organizations/ordererOrganizations
+/organizations/peerOrganizations
+/channel-artifacts
+*.tar.gz
+/chaincode/java/agreements/bin
+/chaincode/java/agreements/build
