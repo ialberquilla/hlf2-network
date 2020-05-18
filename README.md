@@ -1,4 +1,4 @@
-# hlf2-template
+# hlf2-network
 A Hyperledger Fabric network with a java chaincode
 
 # Installation instructions
