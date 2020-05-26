@@ -1,6 +1,9 @@
 # hlf2-network
 A Hyperledger Fabric network with a java chaincode
 
+More info in Medium tutorials
+* [Create java chaincode](https://medium.com/coinmonks/how-to-create-a-java-chaincode-and-deploy-in-a-hyperledger-fabric-2-network-65199e5f645d) 
+
 # Installation instructions
 
 1. Download the template:
